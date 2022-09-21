@@ -1,0 +1,5 @@
+npm i react-router-dom@6
+npm i -D sass
+npm i styled-components
+npm i swiper
+npm i gh-pages
