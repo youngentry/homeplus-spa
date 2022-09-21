@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/homeplus-spa/static/css/main.31d6cfe0.css",
+    "main.js": "/homeplus-spa/static/js/main.bb36bef4.js",
+    "index.html": "/homeplus-spa/index.html",
+    "main.bb36bef4.js.map": "/homeplus-spa/static/js/main.bb36bef4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.bb36bef4.js"
+  ]
+}
