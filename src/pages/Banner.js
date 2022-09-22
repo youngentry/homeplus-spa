@@ -1,8 +1,21 @@
 import React from "react";
-import "../css/Banner.scss";
 
 const Banner = () => {
-    return <div className="banner"></div>;
+    return (
+        <div className="Banner">
+            <div className="container">
+                <figure>
+                    <img
+                        src={
+                            process.env.PUBLIC_URL + "/assets/images/banner.jpg"
+                        }
+                        alt=""
+                    />
+                    <button className="xi-close"></button>
+                </figure>
+            </div>
+        </div>
+    );
 };
 
 export default Banner;

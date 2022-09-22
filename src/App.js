@@ -13,6 +13,7 @@ import Sub06 from "./pages/Sub06";
 import Sub07 from "./pages/Sub07";
 import Sub08 from "./pages/Sub08";
 import Footer from "./pages/Footer";
+import Page404 from "./pages/Page404";
 
 import "./css/basic.scss";
 
@@ -31,6 +32,7 @@ function App() {
                 <Route path="/sub06" element={<Sub06 />} />
                 <Route path="/sub07" element={<Sub07 />} />
                 <Route path="/sub08" element={<Sub08 />} />
+                <Route path="/*" element={<Page404 />} />
             </Routes>
             <Footer />
         </Wrapper>

@@ -1,0 +1,25 @@
+.Sub05 {
+    margin-bottom: 40px;
+
+    h2 {
+        margin: 40px 0;
+        text-align: center;
+        font-size: 42px;
+        font-weight: 700;
+        line-height: 1.618;
+    }
+    ul {
+        li {
+            figure {
+                height: 270px;
+                width: 530px;
+                background: url(../../public/assets/images/speExhi01.jpg)
+                    no-repeat center center/cover;
+            }
+
+            h3 {
+                display: inline-block;
+            }
+        }
+    }
+}

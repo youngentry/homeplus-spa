@@ -1,7 +1,7 @@
 import React from "react";
 
 const Sub06 = () => {
-    return <div>Sub06</div>;
+    return <div className="Sub06">Sub06</div>;
 };
 
 export default Sub06;

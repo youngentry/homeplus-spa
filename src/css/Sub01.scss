@@ -1,0 +1,71 @@
+.Sub01 {
+    .title {
+        padding: 40px;
+        text-align: center;
+
+        h2 {
+            font-size: 42px;
+            font-weight: 700;
+            line-height: 1.618;
+        }
+
+        p {
+            font-size: 15px;
+            font-weight: 300;
+            color: #777;
+            line-height: 1.35;
+        }
+    }
+
+    .proCate {
+        padding: 20px;
+        background: #333333;
+        color: #fff;
+
+        ul {
+            display: flex;
+
+            li {
+                flex: 1;
+            }
+        }
+    }
+
+    .proLi {
+        padding: 40px;
+        background: #f8f8f8;
+
+        li > * {
+            margin-bottom: 10px;
+        }
+
+        figure {
+            margin-bottom: 20px;
+            height: 270px;
+            width: 270px;
+            background: url(../../public/assets/images/pro01.jpg) no-repeat
+                center center/cover;
+            border-radius: 5px;
+        }
+
+        strong {
+            display: inline-block;
+            font-size: 15px;
+        }
+
+        .price {
+            font-size: 23px;
+            font-weight: 500;
+
+            span {
+                font-size: 13px;
+            }
+        }
+
+        .star {
+            font-size: 13px;
+            font-weight: 300;
+            color: #999;
+        }
+    }
+}
