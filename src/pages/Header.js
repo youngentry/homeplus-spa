@@ -29,7 +29,7 @@ const Header = () => {
                             />
                         </Link>
                     </h1>
-                    <form action="">
+                    {/* <form action="">
                         <input type="text" placeholder="검색어를 입력하세요" />
                         <button>
                             <i className="xi-search"></i>
@@ -39,7 +39,7 @@ const Header = () => {
                         <i>아이콘1</i>
                         <i>아이콘2</i>
                         <i>아이콘3</i>
-                    </div>
+                    </div> */}
                 </div>
                 <nav className="GNB">
                     <ul>
