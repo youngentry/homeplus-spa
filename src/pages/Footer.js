@@ -32,7 +32,6 @@ const Footer = () => {
                     <div className="findMarket">
                         <i>위치아이콘</i>매장찾기
                     </div>
-
                     <div className="family">
                         Family Site<i>아래아이콘</i>
                     </div>
