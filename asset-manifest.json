@@ -1,12 +1,17 @@
 {
   "files": {
-    "main.css": "/homeplus-spa/static/css/main.31d6cfe0.css",
-    "main.js": "/homeplus-spa/static/js/main.bb36bef4.js",
+    "main.css": "/homeplus-spa/static/css/main.ed64d1cf.css",
+    "main.js": "/homeplus-spa/static/js/main.5d3d373b.js",
+    "static/media/m03.jpg": "/homeplus-spa/static/media/m03.7100e15fb83fe285d2e2.jpg",
+    "static/media/m01.jpg": "/homeplus-spa/static/media/m01.45a77fa825cce7ae192c.jpg",
+    "static/media/m02.jpg": "/homeplus-spa/static/media/m02.3648c50d68c9ae756ee2.jpg",
+    "static/media/speExhi01.jpg": "/homeplus-spa/static/media/speExhi01.42fb9fcdbe946965d6dd.jpg",
     "index.html": "/homeplus-spa/index.html",
-    "main.bb36bef4.js.map": "/homeplus-spa/static/js/main.bb36bef4.js.map"
+    "main.ed64d1cf.css.map": "/homeplus-spa/static/css/main.ed64d1cf.css.map",
+    "main.5d3d373b.js.map": "/homeplus-spa/static/js/main.5d3d373b.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.bb36bef4.js"
+    "static/css/main.ed64d1cf.css",
+    "static/js/main.5d3d373b.js"
   ]
 }
